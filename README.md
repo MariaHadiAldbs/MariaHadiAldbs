@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MariaHadiAldbs
+- 👋 Hi, I’m Maria Hadi Aldbs
 - 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 Reach me on instagram @Mariahadialdbs
