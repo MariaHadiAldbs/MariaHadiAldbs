@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Hadi Aldbs
 - 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on pretty much anything
+- 💞️ I’m looking to collaborate on html , css , and javascript projects
 - 📫 Reach me on instagram @Mariahadialdbs
 
 <!---
